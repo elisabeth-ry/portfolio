@@ -1,0 +1,123 @@
+
+
+#headshot{
+    border: 5px solid #BCAAEA;
+}
+
+.navbar-brand{
+    color: #42366B;
+}
+
+.main-heading{
+    color:#42366B;
+}
+
+.me{
+    color:#42366B;
+}
+
+.c-info{
+    list-style-type: none;
+}
+
+.resume-head{
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+#rylee{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-family: 'Caveat', cursive;
+    font-family: 'Freehand', cursive;
+    font-family: 'Prata', serif;
+}
+
+#first-name{
+    color:#42366B;
+}
+
+.experience{
+    font-family: 'Caveat', cursive;
+    font-family: 'Freehand', cursive;
+    font-family: 'Prata', serif;
+    margin-left: 30px;
+}
+
+#xp{
+    color:#42366B;
+}
+
+#title{
+    font-size: 17px;
+    margin-bottom: 5px;
+}
+
+.dates{
+    margin-left:10px;
+    font-size: 10px;
+    margin-bottom: 7px;
+}
+
+.r-body{
+    font-family: 'Caveat', cursive;
+    font-family: 'Freehand', cursive;
+    font-family: 'Nunito Sans', sans-serif;
+    /* font-family: 'Prata', serif;     */
+    font-size: 15px;
+}
+
+.r-container{
+    display: grid;
+}
+
+#ed{
+    color:#42366B;
+}
+
+.education{
+    font-size: 22px;
+    font-family: 'Caveat', cursive;
+    font-family: 'Freehand', cursive;
+    font-family: 'Prata', serif;
+    margin-left: 30px;
+}
+
+.coursework{
+    font-family: 'Caveat', cursive;
+    font-family: 'Freehand', cursive;
+    font-family: 'Nunito Sans', sans-serif;
+    /* font-family: 'Prata', serif;     */
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+
+#sks{
+    font-size: 22px;
+    font-family: 'Caveat', cursive;
+    font-family: 'Freehand', cursive;
+    font-family: 'Prata', serif;
+    margin-left: 30px;
+    margin-bottom: 5px;
+    color:#42366B;
+}
+
+.list{
+    margin-left: 20px;
+}
+
+#vxp{
+    font-size: 22px;
+    font-family: 'Caveat', cursive;
+    font-family: 'Freehand', cursive;
+    font-family: 'Prata', serif;
+    margin-left: 30px;
+    margin-bottom: 5px;
+    color:#42366B; 
+}
+
+#resume{
+    color:black;
+}
